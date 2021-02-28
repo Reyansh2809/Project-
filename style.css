@@ -1,0 +1,28 @@
+body{
+text-align: center;
+font-family: sans-serif;
+background-color: coral;
+}
+
+
+
+.container{
+background-color: deepskyblue;    
+}
+
+
+#date{
+font-family: inherit;
+font-size: 12px;
+}
+
+
+
+#marqueeStyle{
+background-color: chocolate;    
+}
+
+img{
+width: 500px;
+height:500px;    
+}
